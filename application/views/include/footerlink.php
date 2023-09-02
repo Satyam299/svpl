@@ -1,0 +1,22 @@
+<!-- <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>-->
+<script src="<?= base_url() ?>assets/js/vendor/jquery.js"></script> 
+   <script src="<?= base_url() ?>assets/js/vendor/waypoints.js"></script>
+   <script src="<?= base_url() ?>assets/js/bootstrap-bundle.js"></script>
+   <script src="<?= base_url() ?>assets/js/meanmenu.js"></script>
+   <script src="<?= base_url() ?>assets/js/gsap.min.js"></script>
+   <script src="<?= base_url() ?>assets/js/ScrollTrigger.min.js"></script>
+   <script src="<?= base_url() ?>assets/js/split-text.min.js"></script>
+   <script src="<?= base_url() ?>assets/js/swiper-bundle.js"></script>
+   <script src="<?= base_url() ?>assets/js/slick.js"></script>
+   <script src="<?= base_url() ?>assets/js/range-slider.js"></script>
+   <script src="<?= base_url() ?>assets/js/magnific-popup.js"></script>
+   <script src="<?= base_url() ?>assets/js/nice-select.js"></script>
+   <script src="<?= base_url() ?>assets/js/purecounter.js"></script>
+   <script src="<?= base_url() ?>assets/js/countdown.js"></script>
+   <script src="<?= base_url() ?>assets/js/jequery-knob.js"></script>
+   <script src="<?= base_url() ?>assets/js/jequery-appear.js"></script>
+   <script src="<?= base_url() ?>assets/js/wow.js"></script>
+   <script src="<?= base_url() ?>assets/js/isotope-pkgd.js"></script>
+   <script src="<?= base_url() ?>assets/js/imagesloaded-pkgd.js"></script>
+   <script src="<?= base_url() ?>assets/js/ajax-form.js"></script>
+   <script src="<?= base_url() ?>assets/js/main.js"></script>
